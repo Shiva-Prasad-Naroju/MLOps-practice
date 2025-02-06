@@ -3,11 +3,11 @@
 A **scalable and modular** MLOps project structure to streamline the development, training, and deployment of machine learning models. This template ensures best practices in **reproducibility, automation, and deployment**.
 
 # MLOps-Template/
-├── .github/
-│   ├── workflows/
-│       ├── .gitkeep
-├── src/
-│   ├── components/
+# ├── .github/
+# │   ├── workflows/
+# │       ├── .gitkeep
+# ├── src/
+# │   ├── components/
 │   │   ├── __init__.py
 │   │   ├── data_ingestion.py
 │   │   ├── data_transformation.py
